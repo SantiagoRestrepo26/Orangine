@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: c6c710a1d71dc4c45a2084719b4e80d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1c26b66191be4dba92fd7963d9e71
+      internalID: -1503895583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476f0fd669b6fa40acde2cba0f447ea
+      internalID: -782810167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ae70889431657499409ec389609ca2
+      internalID: 85752929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e93b3ff2623840a2f4d7be91a8ec6
+      internalID: 1776555483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce11d604ccff614aada05ffcc29c683
+      internalID: -400225083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de90512015060048bee93ba37a240b0
+      internalID: -1767395410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Malandr\xEDn Death-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 80
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e30852ced7eb7440b0a769f9f6d84d1
+      internalID: 941854573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Malandr\xEDn Death-Sheet_43": 898917957
+      "Malandr\xEDn Death-Sheet_24": -1271524660
+      "Malandr\xEDn Death-Sheet_3": 1670168343
+      "Malandr\xEDn Death-Sheet_0": -1278865988
+      "Malandr\xEDn Death-Sheet_25": -1427020230
+      "Malandr\xEDn Death-Sheet_5": -1493427247
+      "Malandr\xEDn Death-Sheet_1": -132957716
+      "Malandr\xEDn Death-Sheet_36": 2087437320
+      "Malandr\xEDn Death-Sheet_28": 1641638331
+      "Malandr\xEDn Death-Sheet_38": 316244476
+      "Malandr\xEDn Death-Sheet_32": 1173094774
+      "Malandr\xEDn Death-Sheet_42": -2071955218
+      "Malandr\xEDn Death-Sheet_27": -112684386
+      "Malandr\xEDn Death-Sheet_4": 1649421808
+      "Malandr\xEDn Death-Sheet_13": 1776555483
+      "Malandr\xEDn Death-Sheet_15": -316799981
+      "Malandr\xEDn Death-Sheet_14": -400225083
+      "Malandr\xEDn Death-Sheet_37": -478965743
+      "Malandr\xEDn Death-Sheet_29": -1263014184
+      "Malandr\xEDn Death-Sheet_22": -196779400
+      "Malandr\xEDn Death-Sheet_7": 1586960115
+      "Malandr\xEDn Death-Sheet_17": 941854573
+      "Malandr\xEDn Death-Sheet_26": 1878578267
+      "Malandr\xEDn Death-Sheet_20": 1136000744
+      "Malandr\xEDn Death-Sheet_33": 485914764
+      "Malandr\xEDn Death-Sheet_8": 1455271554
+      "Malandr\xEDn Death-Sheet_35": 818974846
+      "Malandr\xEDn Death-Sheet_31": 944382388
+      "Malandr\xEDn Death-Sheet_2": -805132584
+      "Malandr\xEDn Death-Sheet_21": -418134197
+      "Malandr\xEDn Death-Sheet_10": 535712906
+      "Malandr\xEDn Death-Sheet_18": -188041911
+      "Malandr\xEDn Death-Sheet_30": -677204439
+      "Malandr\xEDn Death-Sheet_39": -1557016935
+      "Malandr\xEDn Death-Sheet_40": 910427448
+      "Malandr\xEDn Death-Sheet_34": 190724805
+      "Malandr\xEDn Death-Sheet_6": 1676295126
+      "Malandr\xEDn Death-Sheet_11": -782810167
+      "Malandr\xEDn Death-Sheet_19": -1384025312
+      "Malandr\xEDn Death-Sheet_23": 1266502064
+      "Malandr\xEDn Death-Sheet_41": -1207519482
+      "Malandr\xEDn Death-Sheet_12": 85752929
+      "Malandr\xEDn Death-Sheet_16": -1767395410
+      "Malandr\xEDn Death-Sheet_9": -1503895583
+      "Malandr\xEDn Death-Sheet_44": -1285462455
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
